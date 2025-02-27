@@ -15,6 +15,6 @@ This leak is provided "as is." We are not responsible for any consequences that 
 Thanks to Alan for the mistake. This is your responsibility.
 
 **Note**: If you have any issues, blame Alan, not us.  
-Also, we are not sure if it will work, but we have included some libraries taken from an old source.
+Also, we are not sure if it will work, but we have included some Files taken from an old source.
 
 Enjoy!
