@@ -6,7 +6,6 @@ This repository contains leaked files for the Rise client. It appears that an un
 ## Background
 According to dev, this issue is most likely due to Alan accidentally including the SCD files in the release package. It seems there was a bit of a mix-up.  
 the_bi11iona1re suggests that this is probably just "yeah prolly just alan being a retard."
-![image](https://github.com/user-attachments/assets/e139353e-8565-4778-b650-18bb37cbd0fd)
 
 ## Disclaimer
 This leak is provided "as is." We are not responsible for any consequences that may result from the use or distribution of these files. Use at your own risk.
